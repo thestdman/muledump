@@ -7,7 +7,6 @@ The point of playing the game is to have fun. Muling is not fun. I am trying to 
 ## Download
 
 All released versions are [here](https://github.com/atomizer/muledump/releases).
-Stdman will release as many new versions as is possible [here](https://github.com/thestdman/muledump/releases). 
 
 ## Howto
 
@@ -16,19 +15,13 @@ Stdman will release as many new versions as is possible [here](https://github.co
 - rename it to **`accounts.js`**
 - open **`muledump.html`**
 
-## Howto update your muledump to Stdman's version
-
-- download all files
-- copy **accounts.js** file from old muledump
-- paste it in the new muledump folder
-- voila its really that simple
-
 ## Not so obvious features
 
 - click on item to filter accounts that hold it
 - click on account name for individual options menu
 - ctrl-click account name to temporarily hide it from totals
 - read the `accounts.js` file, it has some variables to play with
+- change the background image using the choose file button in the background menu (images must be placed into `lib/images` first)
 
 ## Head to the [wiki](https://github.com/atomizer/muledump/wiki) for more information!
 

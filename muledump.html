@@ -1,39 +1,69 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<title>Muledump</title>
-	<script type="application/javascript" src="vendor/jquery.min.js"></script>
-	<script type="application/javascript" src="vendor/masonry.pkgd.min.js"></script>
-	<script type="application/javascript" src="lib/constants.js"></script>
-	<script type="application/javascript" src="lib/sheets.js"></script>
-	<script type="application/javascript" src="lib/portrait.js"></script>
-	<script type="application/javascript" src="lib/pcstats.js"></script>
-	<script type="application/javascript" src="lib/export.js"></script>
-	<script type="application/javascript" src="accounts.js"></script>
-	<script type="application/javascript" src="lib/realmapi.js"></script>
-	<script type="application/javascript" src="lib/options.js"></script>
-	<script type="application/javascript" src="lib/totals.js"></script>
-	<script type="application/javascript" src="lib/mule.js"></script>
-	<script type="application/javascript" src="lib/muledump.js"></script>
-	<link type="text/css" rel="stylesheet" href="lib/dump.css">
-	<link type="image/png" rel="shortcut icon" href="lib/favicon.png">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muledump</title>
+
+    <link type="text/css" rel="stylesheet" href="lib/dump.css">
+    <link type="image/png" rel="shortcut icon" href="lib/favicon.png">
 </head>
+
 <body>
-	<img id="renders" alt="renders" src="lib/renders.png" style="display:none">
-	<span id="accopts" style="display: none;" class="menu"></span>
-	<div id="main">
-		<div id="top">
-			<div id="cnt" style="display: none;">waiting requests: <span id="counter"></span></div>
-			<div class="handle"><span>options</span><span id="options" class="menu"></span></div>
-			<div id="reloader">reload all</div>
-			<div class="handle"><span>export</span><span id="export" class="menu"></span></div>
-			<div id="update">update</div>
-			<a href="https://github.com/thestdman/muledump" target="_blank">home</a>
-		</div>
-		<div id="totals"></div>
-		<div id="errors"></div>
-		<div id="stage"></div>
-	</div>
+    <span id="bgImage"></span>
+    <img id="renders" alt="renders" src="lib/renders.png" style="display:none">
+    <span id="accopts" style="display: none;" class="menu"></span>
+    <div id="main">
+        <div id="top">
+            <!-- Zafuzi: Created new menu 'background' -->
+            <div class="handle"><span>background</span>
+                <!-- background menu item -->
+                <span id="background" class="menu">
+					<!-- Menu item for background color -->
+					<input name="background_color" type="hidden" id="background_color" value="555">
+					<button  class="jscolor {valueElement: 'background_color',closable:true,closeText:'Close'}">Background Color</button>
+					<!-- Menu item for text color -->
+					<input name="text_color" type="hidden" id="text_color" value="555">
+					<button class="jscolor {valueElement: 'text_color',closable:true,closeText:'Close'}">Text Color</button>
+					<!-- Menu item for background image -->
+					<h7>Choose a Background Image</h7>
+					<input type="file" id="background_image" placeholder="Background Image"/>
+                    <!-- Menu item for background image -->
+					<button class="button1"onClick="refreshPage()" id="reset_button">Reset
+				</span>
+            </div>
+            <div id="cnt" style="display: none;">waiting requests: <span id="counter"></span></div>
+            <div class="handle"><span>options</span><span id="options" class="menu"></span></div>
+            <div id="reloader">reload all</div>
+            <div class="handle"><span>export</span><span id="export" class="menu"></span></div>
+            <div id="update">update</div>
+            <a href="https://github.com/thestdman/muledump" target="_blank">home</a>
+        </div>
+        <div id="totals"></div>
+        <div id="errors"></div>
+        <div id="stage"></div>
+    </div>
+
+    <!-- Zafuzi: Moved scripts down below main content (this matters if you ever put this onto a real server)-->
+    <script type="application/javascript" src="vendor/jquery.min.js"></script>
+    <script type="application/javascript" src="vendor/masonry.pkgd.min.js"></script>
+    <script type="application/javascript" src="lib/constants.js"></script>
+    <script type="application/javascript" src="lib/sheets.js"></script>
+    <script type="application/javascript" src="lib/portrait.js"></script>
+    <script type="application/javascript" src="lib/pcstats.js"></script>
+    <script type="application/javascript" src="lib/export.js"></script>
+    <script type="application/javascript" src="accounts.js"></script>
+    <script type="application/javascript" src="lib/realmapi.js"></script>
+    <script type="application/javascript" src="lib/options.js"></script>
+    <script type="application/javascript" src="lib/totals.js"></script>
+    <script type="application/javascript" src="lib/mule.js"></script>
+    <script type="application/javascript" src="lib/muledump.js"></script>
+    <script type="application/javascript" src="lib/prices.js"></script>
+    <script type="text/javascript" src="lib/backgroundChanger.js"></script>
+    <script type="text/javascript" src="vendor/jscolor.min.js"></script>
+
+	<script> function refreshPage(){window.location.reload();} </script>
 </body>
+
 </html>

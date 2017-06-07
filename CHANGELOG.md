@@ -1,12 +1,3 @@
-**2017-05-31** version 27.7.x.14-1 
-
-- all items since last version added
-- updated the update function
-- changed vault layout
-- fixed invisible vault glitch
-- changed the dungeons displayed in additional stats
-- added my own touch to it all
-
 **2016-10-16** version 0.6.7
 
 - 27.7.X6 items
