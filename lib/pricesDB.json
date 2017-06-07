@@ -1,0 +1,882 @@
+[
+    {
+        "name": "Potion of Speed",
+        "price": "0.5 Defense"
+    },
+    {
+        "name": "Potion of Dexterity",
+        "price": "0.5 Defense"
+    },
+    {
+        "name": "Potion of Wisdom",
+        "price": "0.5 Defense"
+    },
+    {
+        "name": "Potion of Vitality",
+        "price": "0.5 Defense"
+    },
+    {
+        "name": "Potion of Attack",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Potion of Defense",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Potion of Life",
+        "price": "7-8 Defense"
+    },
+    {
+        "name": "Potion of Mana",
+        "price": "3-4 Defense"
+    },
+    {
+        "name": "Agateclaw Dagger",
+        "price": "1-2 Defense"
+    },
+    {
+        "name": "Dagger of Foul Malevolence (T12)",
+        "price": "1-2 Life"
+    },
+    {
+        "name": "Heartfind Dagger(UT)",
+        "price": "1 Life"
+    },
+    {
+        "name": "Toy Knife (UT)",
+        "price": "Unknown"
+    },
+    {
+        "name": "Dagger of the Terrible Talon (UT)",
+        "price": "1 Life"
+    },
+    {
+        "name": "Etherite Dagger (UT)",
+        "price": " 4-5 Life"
+    },
+    {
+        "name": "Bow of Innovent Blood (T11)",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Bow of Covert Havens (T12)",
+        "price": "3-4 Defense"
+    },
+    {
+        "name": "Precisely Calibrated Stringstick (UT)",
+        "price": "Unknown"
+    },
+    {
+        "name": "Bow of Nightmares (UT)",
+        "price": "3-6 Defense"
+    },
+    {
+        "name": "Staff of Astral Knowledge (T11)",
+        "price": "1-2 Defense"
+    },
+    {
+        "name": "Staff of the Cosmic Whole (T12)",
+        "price": "1 Life"
+    },
+    {
+        "name": "Staff of Adoration (UT)",
+        "price": "4 Defense"
+    },
+    {
+        "name": "Staff of the Rising Sun (UT)",
+        "price": "5-6 Life"
+    },
+    {
+        "name": "Staff of Horrific Knowledge (UT)",
+        "price": "0.5-1 Life"
+    },
+    {
+        "name": "The Phylactery (UT)",
+        "price": "0.5-1 Life"
+    },
+    {
+        "name": "Staff of Yuletide Carols (UT)",
+        "price": "1-3 Defense"
+    },
+    {
+        "name": "Sentient Staff (UT)",
+        "price": "1.5-3 Life"
+    },
+    {
+        "name": "Wand of Ancient Warning (T11)",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Wand of Recompense (T12)",
+        "price": "4-6 Defense"
+    },
+    {
+        "name": "Scepter of Geb (UT)",
+        "price": "2-3 Life"
+    },
+    {
+        "name": "Present Dispensing Wand (UT)",
+        "price": "1-2 Defense"
+    },
+    {
+        "name": "Archon Sword (T10)",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Skysplitter Sword (T11)",
+        "price": "0.5-1 Life"
+    },
+    {
+        "name": "Sword of Acclaim (T12)",
+        "price": "2-3 Life"
+    },
+    {
+        "name": "Skull-splitter Sword (UT)",
+        "price": "0.5-1 Life"
+    },
+    {
+        "name": "VineSword (UT)",
+        "price": "1 Life"
+    },
+    {
+        "name": "Sword of the Mad God (UT)",
+        "price": "2-3 Life"
+    },
+    {
+        "name": "Unstable Anomaly (UT)",
+        "price": "4 Life"
+    },
+    {
+        "name": "Pixie-Enchanted Sword (UT)",
+        "price": "3.5-5 Life"
+    },
+    {
+        "name": "Frostbite (UT)",
+        "price": "0.5-1 Life"
+    },
+    {
+        "name": "Muramasa (T11)",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Masamune (T12)",
+        "price": "2-4 Defense"
+    },
+    {
+        "name": "Corrupted Cleaver (UT)",
+        "price": "1 Life"
+    },
+    {
+        "name": "Salju (UT)",
+        "price": "2-4 Defense"
+    },
+    {
+        "name": "Robe of the Moon Wizard (T11)",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Robe of the Elder Warlock (T12)",
+        "price": "2 Defense"
+    },
+    {
+        "name": "Robe of the Grand Sorcerer (T13)",
+        "price": "1 Life"
+    },
+    {
+        "name": "Robe of the Summer Solstice (UT)",
+        "price": "4-5 Life"
+    },
+    {
+        "name": "Shendyt of Geb (UT)",
+        "price": "4-5 Life"
+    },
+    {
+        "name": "Soulless Robe (UT)",
+        "price": "3.5-4.5 Life"
+    },
+    {
+        "name": "The Robe of Twilight (UT)",
+        "price": "0.5-1.5 Life"
+    },
+    {
+        "name": "Vengence Armor (T11)",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Abyssal Armor (T12)",
+        "price": "2-3 Defense"
+    },
+    {
+        "name": "Acropolis Armor (T13)",
+        "price": "2 Life"
+    },
+    {
+        "name": "Almandine Armor of Anger (UT)",
+        "price": "2-3.5 Life"
+    },
+    {
+        "name": "Fairy Plate (UT)",
+        "price": "4-5 Life"
+    },
+    {
+        "name": "Hippogriff Hide Armor (T11)",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Griffon Hide Armor (T12)",
+        "price": "2 Defense"
+    },
+    {
+        "name": "Hydra Skin Armor (T13)",
+        "price": " 1.5 Life"
+    },
+    {
+        "name": "Cloak of Endless Twilight (T5)",
+        "price": " 1 Defense"
+    },
+    {
+        "name": "Cloak of Ghostly Concealment (T6)",
+        "price": "1-2 Life"
+    },
+    {
+        "name": "Ghastly Drape (UT)",
+        "price": "1-2 Life"
+    },
+    {
+        "name": "Elvencraft Quiver (T3)",
+        "price": "0.5 Defense"
+    },
+    {
+        "name": "Golden Quiver (T5)",
+        "price": " 1 Defense"
+    },
+    {
+        "name": "Quiver of Elvish Mastery (T6)",
+        "price": "2-3 Life"
+    },
+    {
+        "name": "Magic Nova Spell (T5)",
+        "price": " 1 Defense"
+    },
+    {
+        "name": "Elemental Detonation Spell (T6)",
+        "price": "1.5-3 Life"
+    },
+    {
+        "name": "Thousand Suns Spell (UT)",
+        "price": "3-5 Life"
+    },
+    {
+        "name": "Ancient Spell: Pierce (UT)",
+        "price": "4-6 Life"
+    },
+    {
+        "name": "Tome of Divine Favor (T5)",
+        "price": " 1 Defense"
+    },
+    {
+        "name": "Tome of Holy Guidance (T6)",
+        "price": "2 Life"
+    },
+    {
+        "name": "Book of Geb (UT)",
+        "price": "3-5 Life"
+    },
+    {
+        "name": "Golden Helm (T5)",
+        "price": " 1 Defense"
+    },
+    {
+        "name": "Helm of the Great General (T6)",
+        "price": " 3 Life"
+    },
+    {
+        "name": "Mithiril Shield (T5)",
+        "price": " 2 Defense"
+    },
+    {
+        "name": "Colossus Shield (T6)",
+        "price": " 3 Life"
+    },
+    {
+        "name": "Onyx Shield of the Mad God (UT)",
+        "price": "4-6 Life"
+    },
+    {
+        "name": "Seal of the Holy Warrior (T5)",
+        "price": " 1 Defense"
+    },
+    {
+        "name": "Seal of the Blessed Champion (T6)",
+        "price": "2-3 Life"
+    },
+    {
+        "name": "Seal of the Enchanted Forest (UT)",
+        "price": "1 Life"
+    },
+    {
+        "name": "Nightwing Venom (T5)",
+        "price": " 1 Defense"
+    },
+    {
+        "name": "Baneserpent Poison (T6)",
+        "price": "1-2 Life"
+    },
+    {
+        "name": "Lifedrinker Skull (T5)",
+        "price": " .5 Defense"
+    },
+    {
+        "name": "Bloodsucker Skull (T6)",
+        "price": "4-8 Defense"
+    },
+    {
+        "name": "Dragonstalker Trap (T5)",
+        "price": " .5 Defense"
+    },
+    {
+        "name": "Giantcatcher Trap (T6)",
+        "price": "4-6 Defense"
+    },
+    {
+        "name": "Banishment Orb (T5)",
+        "price": " .5 Defense"
+    },
+    {
+        "name": "Planefetter Orb (T6)",
+        "price": "1 Life"
+    },
+    {
+        "name": "Soul of the Bearer (UT)",
+        "price": "1.5-3 Life"
+    },
+    {
+        "name": "Prism of Phantoms (T5)",
+        "price": " .5 Defense"
+    },
+    {
+        "name": "Prism of Appirations (T6)",
+        "price": "4 Defense"
+    },
+    {
+        "name": "Scepter of Skybolts (T5)",
+        "price": " .5 Defense"
+    },
+    {
+        "name": "Scepter of Storms (T6)",
+        "price": "2-4 Defense"
+    },
+    {
+        "name": "Ice Star (T5)",
+        "price": " .5 Defense"
+    },
+    {
+        "name": "Doom Circle (T6)",
+        "price": "1-2 Life"
+    },
+    {
+        "name": "Ring of Paramount Defense (T4)",
+        "price": " .5 Defense"
+    },
+    {
+        "name": "Ring of Paramount Speed (T4)",
+        "price": ".5 Defense"
+    },
+    {
+        "name": "Ring of Paramount Health (T4)",
+        "price": " 1 Defense"
+    },
+    {
+        "name": "Ring of Exalted Attack (T5)",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Ring of Exalted Defense (T5)",
+        "price": " 1 Defense"
+    },
+    {
+        "name": "Ring of Exalted Speed (T5)",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Ring of Exalted Health (T5)",
+        "price": " 1 Life"
+    },
+    {
+        "name": "Ring of Unbound Attack (T6)",
+        "price": " 1-2 Life"
+    },
+    {
+        "name": "Ring of Unbound Defense (T6)",
+        "price": "1-2 Life"
+    },
+    {
+        "name": "Ring of Unbound Speed (T6)",
+        "price": "4-8 Defense"
+    },
+    {
+        "name": "Ring of Unbound Vitality (T6)",
+        "price": "4-6 Defense"
+    },
+    {
+        "name": "Ring of Unbound Wisdom (T6)",
+        "price": "4-6 Defense"
+    },
+    {
+        "name": "Ring of Unbound Dexterity (T6)",
+        "price": "4-6 Defense"
+    },
+    {
+        "name": "Ring of Unbound Health (T6)",
+        "price": " 3-4 Life"
+    },
+    {
+        "name": "Ring of Unbound Magic (T6)",
+        "price": " 1-2 Life"
+    },
+    {
+        "name": "Ring of Decades (T6)",
+        "price": " 5 Life"
+    },
+    {
+        "name": "Geb's Ring of Wisdom (UT)",
+        "price": "3-4 Defense"
+    },
+    {
+        "name": "Almandine Ring of Wrath (UT)",
+        "price": "1-1.5 Life"
+    },
+    {
+        "name": "Ring of the Burning Sun (UT)",
+        "price": "Unknown"
+    },
+    {
+        "name": "Ring of the Covetous Heart (UT)",
+        "price": "unknown"
+    },
+    {
+        "name": "Ring of Pure Wishes (UT)",
+        "price": "2-4 Defense"
+    },
+    {
+        "name": "Spectral Ring of Horrors (UT)",
+        "price": "4-6 Defense"
+    },
+    {
+        "name": "The Forgotten Ring (UT)",
+        "price": "2-3 Defense"
+    },
+    {
+        "name": "Golden Ankh",
+        "price": "1-2 Defense"
+    },
+    {
+        "name": "Eye of Osiris ",
+        "price": "2 Defense"
+    },
+    {
+        "name": "Pharaoh's Mask",
+        "price": "4 Defense"
+    },
+    {
+        "name": "Golden Cockle",
+        "price": "2-3 Defense"
+    },
+    {
+        "name": "Golden Conch ",
+        "price": "2 Defense"
+    },
+    {
+        "name": "Golden Horn Conch",
+        "price": "4 Defense"
+    },
+    {
+        "name": "Golden Nut",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Golden Bolt",
+        "price": "2 Defense "
+    },
+    {
+        "name": "Golden Femur",
+        "price": "1-2 Defense"
+    },
+    {
+        "name": "Golden Ribcage",
+        "price": "2 Defense"
+    },
+    {
+        "name": "Golden Skull",
+        "price": "4-5 Defense"
+    },
+    {
+        "name": "Golden Candelbra",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Holy Cross",
+        "price": "2 Defense"
+    },
+    {
+        "name": "Pearl Necklace ",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Golden Chalice",
+        "price": "2 Defense"
+    },
+    {
+        "name": "Ruby Gemstone",
+        "price": "3 Defense"
+    },
+    {
+        "name": "The Devil Tarot Card",
+        "price": "1 Defense"
+    },
+    {
+        "name": "The Sun Tarot Card",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Death Tarot Card",
+        "price": "1 Defense"
+    },
+    {
+        "name": "The Tower Tarot Card",
+        "price": "1 Defense"
+    },
+    {
+        "name": "The Magician Tarot Card",
+        "price": "1 Defense"
+    },
+    {
+        "name": "The World Tarot Card",
+        "price": "1 Defense"
+    },
+    {
+        "name": "The Chariot Tarot Card",
+        "price": "1 Defense"
+    },
+    {
+        "name": "The Moon Tarot Card",
+        "price": "1 Defense"
+    },
+    {
+        "name": "The Fool Tarot Card ",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Common Humanoid Egg",
+        "price": "1 Defense"
+    },
+    {
+        "name": "Wine Cellar Incantation",
+        "price": "3-4 Defense"
+    },
+    {
+        "name": "Tomb of the Ancients Key",
+        "price": " 2-3 Life"
+    },
+    {
+        "name": "Ocean Trench Key",
+        "price": "1 Life"
+    },
+    {
+        "name": "Davy's Key",
+        "price": "0.5-1 Life"
+    },
+    {
+        "name": "Candy Key",
+        "price": "2 Life"
+    },
+    {
+        "name": "Woodland Labyrinth Key",
+        "price": "1 Life"
+    },
+    {
+        "name": "The Crawling Depths Key",
+        "price": "1-1.5 Life"
+    },
+    {
+        "name": "Battle Nexus Key",
+        "price": "1-2 Life"
+    },
+    {
+        "name": "Shatters Key",
+        "price": " 2-3 Life"
+    },
+    {
+        "name": "Bella's Key",
+        "price": "2-4 Defense"
+    },
+    {
+        "name": "Shaitan's Key",
+        "price": "1 Life"
+    },
+    {
+        "name": "Draconis Key",
+        "price": "1-2 Life"
+    },
+    {
+        "name": "Puppet Master's Encore Key",
+        "price": "1-2 Life"
+    },
+    {
+        "name": "Ice Cave Key",
+        "price": "0.5-1 Life"
+    },
+    {
+        "name": "Halloween Cemetery Key",
+        "price": ""
+    },
+    {
+        "name": "Ice Tomb Key",
+        "price": "2-3 Life"
+    },
+    {
+        "name": "Mountain Temple Key",
+        "price": "1 Life"
+    },
+    {
+        "name": "Ghost Pirate Rum",
+        "price": "0.5-1 Speed"
+    },
+    {
+        "name": "Slime Archer Skin",
+        "price": ""
+    },
+    {
+        "name": "Brigand Skin",
+        "price": ""
+    },
+    {
+        "name": "Agent Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Knight Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Priest Skin",
+        "price": ""
+    },
+    {
+        "name": "Bashing Bride Skin",
+        "price": ""
+    },
+    {
+        "name": "Eligible Bachelor Skin",
+        "price": ""
+    },
+    {
+        "name": "Nun Skin",
+        "price": ""
+    },
+    {
+        "name": "Witch Doctor Skin",
+        "price": ""
+    },
+    {
+        "name": "Sorceress Skin",
+        "price": ""
+    },
+    {
+        "name": "Artemis Skin",
+        "price": ""
+    },
+    {
+        "name": "Shoveguy Skin",
+        "price": ""
+    },
+    {
+        "name": "Scarlett Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Ninja Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Wizard Skin",
+        "price": ""
+    },
+    {
+        "name": "Deadly Vixen Skin",
+        "price": ""
+    },
+    {
+        "name": "Stanley the Spring Bunny Skin",
+        "price": ""
+    },
+    {
+        "name": "Nexus no Miko Skin",
+        "price": ""
+    },
+    {
+        "name": "Drow Trickster Skin",
+        "price": ""
+    },
+    {
+        "name": "B.B. Wolf Skin",
+        "price": ""
+    },
+    {
+        "name": "Lil Red Skin",
+        "price": ""
+    },
+    {
+        "name": "Holy Avenger Skin",
+        "price": ""
+    },
+    {
+        "name": "Ranger Skin",
+        "price": ""
+    },
+    {
+        "name": "King Knifeula Skin",
+        "price": ""
+    },
+    {
+        "name": "Witch Skin",
+        "price": ""
+    },
+    {
+        "name": "Platinum Knight Skin",
+        "price": ""
+    },
+    {
+        "name": "Platinum Warrior Skin",
+        "price": ""
+    },
+    {
+        "name": "Platinum Rogue Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Sorcerer Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Trickster Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Mystic Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Huntress Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Necromancer Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Assassin Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Paladin Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Rogue Skin",
+        "price": ""
+    },
+    {
+        "name": "Slime Warrior Skin",
+        "price": ""
+    },
+    {
+        "name": "Puppet Master Skin",
+        "price": ""
+    },
+    {
+        "name": "Jester Skin",
+        "price": ""
+    },
+    {
+        "name": "Ghost Huntress Skin",
+        "price": ""
+    },
+    {
+        "name": "Skeleton Warrior Skin",
+        "price": ""
+    },
+    {
+        "name": "Huntsman Skin",
+        "price": ""
+    },
+    {
+        "name": "Demon Spawn Skin",
+        "price": ""
+    },
+    {
+        "name": "Hunchback Skin",
+        "price": ""
+    },
+    {
+        "name": "Vampiress Skin",
+        "price": ""
+    },
+    {
+        "name": "Frankensteins Monster Skin",
+        "price": ""
+    },
+    {
+        "name": "Jack the Ripper Skin",
+        "price": ""
+    },
+    {
+        "name": "Death Skin",
+        "price": ""
+    },
+    {
+        "name": "Tiny Avatar Skin",
+        "price": ""
+    },
+    {
+        "name": "Zombie Nurse Skin",
+        "price": ""
+    },
+    {
+        "name": "Ascended Sorcerer Skin",
+        "price": ""
+    },
+    {
+        "name": "Mischievous Imp Skin",
+        "price": ""
+    },
+    {
+        "name": "Vampire Hunter Skin",
+        "price": ""
+    },
+    {
+        "name": "Poltergeist Skin",
+        "price": ""
+    },
+    {
+        "name": "Dark Elf Huntress Skin",
+        "price": ""
+    },
+    {
+        "name": "Infected Skin",
+        "price": ""
+    },
+    {
+        "name": "Santa Skin",
+        "price": ""
+    },
+    {
+        "name": "Little Helper Skin",
+        "price": ""
+    },
+    {
+        "name": "Iceman Skin",
+        "price": ""
+    }
+]
